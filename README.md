@@ -6,3 +6,17 @@ I am currently a Customer Solutions Consultant for <a href="https://www.infoveri
 - You can simply email me at telepjonathan@gmail.com. I check my email numerous times a day.
 - View my experience at <a href="https://www.linkedin.com/in/jonathan-telep-576750115/">LinkedIn</a>
 - Follow me on <a href="https://twitter.com/jontelep">Twitter</a> if you wish to see many sports and crypto likes/retweets.
+
+### Collection of Libraries and VS extensions I use often
+Command line installations
+- `>npm install` <a href="https://www.npmjs.com/get-npm">npm</a> Installs Node modules to run an app locally.
+- `>npm install axios` <a href="https://www.npmjs.com/package/axios">axios</a> Installs a promise based HTTP client for the browser and node.js.
+- `>npm i -g vercel` <a href="https://www.npmjs.com/package/vercel">vercel</a> Quick deployment of applications.
+- `>npm install --save react-twitter-embed` <a href="https://www.npmjs.com/package/react-twitter-embed">React-Twitter-Embed</a> used to add twitter feeds into apps.
+- `>npm install --save google-maps-react` <a href="https://www.npmjs.com/package/google-maps-react">Goole-Maps-React</a> Google Map React Component for Google's maps/places api
+- `>npm install ipdata` <a href="https://www.npmjs.com/package/ipdata">ipdata</a> JS library to gather information for an IP address.
+
+VS Code Extensions:
+- <a href="https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize">Colonize</a> Inserting semicolons end of line with or without new line.
+- <a href="https://marketplace.visualstudio.com/items?itemName=chrmarti.regex">Regex Previewer</a> Regex Matches previewer.
+- <a href="https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log">Turbo Console Log</a> Quickly add console.log()'s of a variable.
