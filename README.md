@@ -20,3 +20,4 @@ VS Code Extensions:
 - <a href="https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize">Colonize</a> Inserting semicolons end of line with or without new line.
 - <a href="https://marketplace.visualstudio.com/items?itemName=chrmarti.regex">Regex Previewer</a> Regex Matches previewer.
 - <a href="https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log">Turbo Console Log</a> Quickly add console.log()'s of a variable.
+- <a href="https://marketplace.visualstudio.com/items?itemName=IronGeek.vscode-env">ENV</a> Adds formatting and syntax highlight support for env files.
