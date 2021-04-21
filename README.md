@@ -18,6 +18,8 @@ Command line installations
 
 VS Code Extensions:
 - <a href="https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize">Colonize</a> Inserting semicolons end of line with or without new line.
+- <a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.prettier-vscode">prettier</a> Ctrl -s saves your code and prettifies your code.
 - <a href="https://marketplace.visualstudio.com/items?itemName=chrmarti.regex">Regex Previewer</a> Regex Matches previewer.
 - <a href="https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log">Turbo Console Log</a> Quickly add console.log()'s of a variable.
 - <a href="https://marketplace.visualstudio.com/items?itemName=IronGeek.vscode-env">ENV</a> Adds formatting and syntax highlight support for env files.
+- <a href="https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity">solidity</a> Solidity support for Visual Studio Code.
