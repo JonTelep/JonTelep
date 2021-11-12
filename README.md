@@ -23,3 +23,4 @@ VS Code Extensions:
 - <a href="https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log">Turbo Console Log</a> Quickly add console.log()'s of a variable.
 - <a href="https://marketplace.visualstudio.com/items?itemName=IronGeek.vscode-env">ENV</a> Adds formatting and syntax highlight support for env files.
 - <a href="https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity">solidity</a> Solidity support for Visual Studio Code.
+- <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a>Improve your code commenting by annotating with alert.
