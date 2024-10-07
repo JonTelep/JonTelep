@@ -5,5 +5,5 @@ I am currently working for <a href="https://www.redhat.com/en">Red Hat</a> as Se
 - Check out my personal website at www.JonathanTelep.com/ where I'll show what I'm working on and topics I find interesting.
 - You can simply email me at telepjonathan@gmail.com. I check my email numerous times a day.
 - View my experience at <a href="https://www.linkedin.com/in/jonathan-telep-576750115/">LinkedIn</a>
-- Follow me on <a href="https://twitter.com/jontelep">Twitter</a> if you wish to see many sports and crypto likes/retweets.
+- Follow me on <a href="https://twitter.com/telep_io">Twitter</a> if you wish to see many sports and crypto likes/retweets.
 
