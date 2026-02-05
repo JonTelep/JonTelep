@@ -5,7 +5,7 @@ I'm **Jonathan Telep**, Senior Software Engineer at Red Hat. I build useful tool
 ## 🚀 Featured Projects
 
 - **[Let's Talk Statistics](https://letstalkstatistics.com)** - Government data visualization, no spin
-- **[Capitol Trades API](https://trades.telep.io)** - Free congressional stock trading data
+- **[Capitol Trades API](https://trades.telep.io/docs)** - Free congressional stock trading data
 - **[Postgres Visualizer](https://jonathantelep.com/postgres-visualizer/)** - Quick SQL to charts
 
 ## 🏢 Telep IO
