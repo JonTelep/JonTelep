@@ -1,9 +1,19 @@
-- # Hello!
-My name is Jonathan Telep, I am a senior software engineer at Red Hat. I build stuff in my personal time that I find useful.
-- <a href="https://jonathantelep.com/postgres-visualizer/">Visualize Postgres SQL</a>
+# Hello! 👋
 
-## 📫 Let's work together!
-- Check out my personal website at www.JonathanTelep.com/ for an interactive way to navigate my projects.
-- View my experience at <a href="https://www.linkedin.com/in/jonathan-telep-576750115/">LinkedIn</a>
-- Follow me on <a href="https://twitter.com/telep_io">Twitter</a> if you wish to see many sports and crypto likes/retweets.
+I'm **Jonathan Telep**, Senior Software Engineer at Red Hat. I build useful tools in my personal time.
 
+## 🚀 Featured Projects
+
+- **[Let's Talk Statistics](https://letstalkstatistics.com)** - Government data visualization, no spin
+- **[Capitol Trades API](https://trades.telep.io)** - Free congressional stock trading data
+- **[Postgres Visualizer](https://jonathantelep.com/postgres-visualizer/)** - Quick SQL to charts
+
+## 🏢 Telep IO
+
+Building software tools at [telep.io](https://telep.io) - data analytics, APIs, and web applications.
+
+## 📫 Connect
+
+- 🌐 [JonathanTelep.com](https://jonathantelep.com)
+- 🐦 [@telep_io](https://twitter.com/telep_io) - Software, data, and startup updates
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-telep-576750115/)
