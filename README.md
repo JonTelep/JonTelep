@@ -1,21 +1,10 @@
-I'm **Jonathan Telep**, Senior Software Engineer at Red Hat. I build stuff in my personal time.
+I'm **Jonathan Telep**, Senior Software Engineer at Red Hat. I build stuff in my personal time either here or at [telep.io](https://telep.io)
 
 ## Dev Tools
-- **[Capitol Trades API](https://trades.telep.io/docs)** - **Beta** Free congressional stock trading api
+- **[Capitol Trades API](https://trades.telep.io/docs)** - **Alpha** Free congressional stock trading api 90& accurate data currently
 - **[jsonify](https://jonathantelep.com/json)** - Json visualizer
 - **[Postgres Visualizer](https://jonathantelep.com/postgres/)** - Create PostgreSQL to visualizer
-- **[Claude Context Obsidian Sync](https://github.com/JonTelep/claude-code-context-syncer)** - Claude Code context sync to obsidian
-
-## Intelligence
-- **[Let's Talk Statistics](https://letstalkstatistics.com)** - Government/fiscal data visualization, no spin, just data
-- **[Prediction Market Surveillance](https://github.com/JonTelep/prediction-market)** - **ALPHA** Detects anomalous trading activity with polymarket
-- **[Youtube Summarize](https://github.com/JonTelep/summarize-vid)** - Simple youtube url to transcript summarization with a local llm
-
-## Fun
-- **[(Coming March 2026)Mineswept](https://mineswept.com)** - Tick base multiplayer minesweeper social experiment
-
-## Telep IO
-Building software tools at [telep.io](https://telep.io) - data analytics, APIs, and web applications.
+- **[Obsidian Claude Context Syncer](https://github.com/Telep-IO/obsidian-claude-context-syncer)** - Claude Code context sync to obsidian
 
 ## Connect
 - [JonathanTelep.com](https://jonathantelep.com)
