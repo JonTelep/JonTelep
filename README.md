@@ -1,4 +1,4 @@
-I'm **Jonathan Telep**, Senior Software Engineer at Red Hat. I build stuff in my personal time either here or at [telep.io](https://telep.io)
+I'm **Jonathan Telep**, Senior Software Engineer. I build stuff in my personal time either here or at [telep.io](https://telep.io)
 
 ## Dev Tools
 - **[Capitol Trades API](https://trades.telep.io/docs)** - **Alpha** Free congressional stock trading api 90& accurate data currently
