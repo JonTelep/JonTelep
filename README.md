@@ -1,10 +1,8 @@
 I'm **Jonathan Telep**, Senior Software Engineer. I build stuff in my personal time either here or at [telep.io](https://telep.io)
 
-## Dev Tools
-- **[Capitol Trades API](https://trades.telep.io/docs)** - **Alpha** Free congressional stock trading api 90& accurate data currently
-- **[jsonify](https://jonathantelep.com/json)** - Json visualizer
-- **[Postgres Visualizer](https://jonathantelep.com/postgres/)** - Create PostgreSQL to visualizer
-- **[Obsidian Claude Context Syncer](https://github.com/Telep-IO/obsidian-claude-context-syncer)** - Claude Code context sync to obsidian
+## Use my apps
+- [Sumvid.app](https://sumvid.app/) - summarizes youtube videos and own your summarizations with easy export.
+- [Easy Data Quality](https://easydataquality.com/) - know your data, enhance your quality seamlessly.
 
 ## Connect
 - [JonathanTelep.com](https://jonathantelep.com)
