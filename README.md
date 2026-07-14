@@ -1,7 +1,7 @@
 I'm **Jonathan Telep**, Senior Software Engineer. I build stuff in my personal time either here or at [telep.io](https://telep.io)
 
 ## Use my apps
-- [Sumvid.app](https://sumvid.app/) - summarizes youtube videos and own your summarizations with easy export.
+- [Sumvid.app](https://sumvid.app/) - summarize videos for skimmers, x402 endpoints for agents & developers.
 - [Easy Data Quality](https://easydataquality.com/) - know your data, enhance your quality seamlessly.
 
 ## Connect
