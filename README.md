@@ -1,10 +1,11 @@
-I'm **Jonathan Telep**, Senior Software Engineer. I build stuff in my personal time either here or at [telep.io](https://telep.io)
+I'm **Jonathan Telep**, senior software engineer. I ship software at [telep.io](https://telep.io).
 
-## Use my apps
-- [Sumvid.app](https://sumvid.app/) - summarize videos for skimmers, x402 endpoints for agents & developers.
-- [Easy Data Quality](https://easydataquality.com/) - know your data, enhance your quality seamlessly.
+## Focus
+- [Muse connectors](https://muse.telep.io) — APIs and tools for Meta Muse (physical mail, fax, YouTube summaries, package tracking, and more) behind [api.muse.telep.io](https://api.muse.telep.io)
+- [Sumvid](https://sumvid.app) — video summaries for people and agents
+- [BarkMarks](https://bark.telep.io) — mark and grade moments in movies and TV
 
 ## Connect
-- [JonathanTelep.com](https://jonathantelep.com)
-- [@telep_io](https://twitter.com/telep_io) - Software, data, and startup updates
+- [jonathantelep.com](https://jonathantelep.com)
+- [@telep_io](https://x.com/telep_io)
 - [LinkedIn](https://www.linkedin.com/in/jonathan-telep-576750115/)
