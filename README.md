@@ -1,11 +1,17 @@
-I'm **Jonathan Telep**, senior software engineer. I ship software at [telep.io](https://telep.io).
+I'm Jonathan Telep, software engineer. Side projects below, mostly tools I use every day.
+[Telep IO](https://telep.io) is my LLC, software for local businesses and the projects that grow past a weekend.
 
-## Focus
-- [Muse connectors](https://muse.telep.io) — APIs and tools for Meta Muse (physical mail, fax, YouTube summaries, package tracking, and more) behind [api.muse.telep.io](https://api.muse.telep.io)
+## Telep IO
+- [Muse connectors](https://muse.telep.io) — mail, fax, YouTube summaries, and package tracking for Meta Muse
 - [Sumvid](https://sumvid.app) — video summaries for people and agents
-- [BarkMarks](https://bark.telep.io) — mark and grade moments in movies and TV
+- [BarkMarks](https://bark.telep.io) — crowdsource moments in movies and TV that trigger dogs
 
-## Connect
-- [jonathantelep.com](https://jonathantelep.com)
-- [@telep_io](https://x.com/telep_io)
-- [LinkedIn](https://www.linkedin.com/in/jonathan-telep-576750115/)
+## Omarchy plugins
+- [oposse](https://github.com/Telep-IO/oposse) — all your assistants behind one bar icon
+- [omusey](https://github.com/Telep-IO/omusey) — Meta Muse
+- [odotsy](https://github.com/Telep-IO/odotsy) — ChatGPT Dots
+
+## Tools
+- [jclip](https://github.com/JonTelep/jclip) — clip a YouTube or X video to mp4/mp3 in one command
+- [unplayer](https://github.com/JonTelep/unplayer) — watch any web video stream in mpv
+- [seploy](https://github.com/Telep-IO/seploy) — simple deploy utility for a VPS
